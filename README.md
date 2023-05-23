@@ -9,7 +9,7 @@
 
 🤝 Estou sempre aberto a colaborar em projetos que envolvem Direito Digital e Tecnologia. Sinta-se à vontade para entrar em contato se você tiver um projeto que poderia usar minha experiência.
 
-✉️ victor@leichsenring.tech | 💼 [https://www.linkedin.com/in/victor-leichsenring-1511a2185/]
+✉️ victor@leichsenring.tech | 💼 (Linkedin)[https://www.linkedin.com/in/victor-leichsenring-1511a2185/]
 
 <!--
 **VictorLeichsenring/VictorLeichsenring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
