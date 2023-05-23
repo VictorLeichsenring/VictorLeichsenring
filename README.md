@@ -1,17 +1,15 @@
 # ⚖️💻 Me encontro entre cláusulas e classes. Quem sou eu?
-👋 Olá! Eu sou [Seu Nome], um advogado especializado em Direito Digital com um interesse apaixonado em tecnologia. Meu objetivo é combinar minha experiência legal com a ciência da computação para ajudar a promover a ética, a transparência e a segurança na era digital.
+👋 Olá! Eu sou Victor Leichsenring, um advogado especializado em Direito Digital apaixonado em tecnologia. Meu objetivo é combinar minha experiência jurídica com a ciência da computação.
 
-🎓🏛️ No meu trabalho como advogado, já trabalhei com uma variedade de questões legais digitais, incluindo privacidade de dados, cibersegurança, direitos autorais e contratos de software. Minha experiência me deu uma compreensão aprofundada da interseção entre direito e tecnologia.
+🎓🏛️ Como advogado, já trabalhei com uma variedade de situações jurídicas, incluindo privacidade de dados, investigação digital, direitos autorais e contratos de software. Minha experiência me deu uma compreensão aprofundada da interseção entre direito e tecnologia.
 
-💻📚 Além do meu trabalho, estou atualmente aprimorando minhas habilidades em programação. Estou cursando um bootcamp intensivo de programação e tenho experiência em Python, Java e JavaScript.
+💻📚 Além do meu trabalho, estou atualmente aprimorando minhas habilidades em programação. Estou em um curso intensivo de programação com o objetivo de aprimorar conhecimentos em desenvolvimento web.
 
-🔍🔐 Estou particularmente interessado em questões de direito digital, como segurança de dados, proteção de privacidade online, e a legislação envolvendo inteligência artificial.
+🔫🏞️ Quando não estou trabalhando ou codificando, você pode me encontrar no campo de Airsoft. Sou um entusiasta desse esporte, quando quiser jogar é so me avisar.
 
-🔫🏞️ Quando não estou trabalhando ou codificando, você pode me encontrar no campo de Airsoft. Sou um entusiasta desse esporte, e adoro a estratégia e a camaradagem que ele proporciona.
+🤝 Estou sempre aberto a colaborar em projetos que envolvem Direito Digital e Tecnologia. Sinta-se à vontade para entrar em contato se você tiver um projeto que poderia usar minha experiência.
 
-🤝 Estou sempre aberto a colaborar em projetos que envolvem Direito Digital e Tecnologia. Sinta-se à vontade para entrar em contato se você tiver um projeto que poderia usar minha experiência ou se você apenas quiser discutir sobre as últimas tendências em Direito Digital.
-
-✉️ [Seu e-mail] | 💼 [Link do LinkedIn] | 🐦 [Handle do Twitter]
+✉️ victor@leichsenring.tech | 💼 [https://www.linkedin.com/in/victor-leichsenring-1511a2185/]
 
 <!--
 **VictorLeichsenring/VictorLeichsenring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
