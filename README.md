@@ -1,13 +1,13 @@
 # ⚖️💻 Me encontro entre cláusulas e classes. Quem sou eu?
-👋 Olá! Eu sou Victor Leichsenring, um advogado especializado em Direito Digital apaixonado em tecnologia. Meu objetivo é combinar minha experiência jurídica com a ciência da computação.
+👋 Olá! Eu sou Victor Leichsenring, um advogado especializado em Direito Digital apaixonado em tecnologia. Meu objetivo é combinar minha experiência jurídica com o  desenvolvimento de software.
 
 🎓🏛️ Como advogado, já trabalhei com uma variedade de situações jurídicas, incluindo privacidade de dados, investigação digital, direitos autorais e contratos de software. Minha experiência me deu uma compreensão aprofundada da interseção entre direito e tecnologia.
 
-💻📚 Além do meu trabalho, estou atualmente aprimorando minhas habilidades em programação. Estou em um curso intensivo de programação com o objetivo de aprimorar conhecimentos em desenvolvimento web.
+💻📚 Além do meu trabalho, estou atualmente aprimorando minhas habilidades em programação. Concluí um curso intensivo de programação com o objetivo de aprimorar conhecimentos em desenvolvimento web.
 
 🔫🏞️ Quando não estou trabalhando ou codificando, você pode me encontrar no campo de Airsoft. Sou um entusiasta desse esporte, quando quiser jogar é so me avisar.
 
-👨‍👩‍👦🐶 Fora do tribunal e do terminal, divido minha vida com uma dupla: meu filho, que vê o mundo como um enorme playground; e uma filhote de Pastor Belga Malinois, possivelmente o cão mais entusiasmado do mundo.
+👨‍👩‍👦🐶 Fora do tribunal e do terminal, divido minha vida com um trio: meu filho, que vê o mundo como um enorme playground; e dois Pastores Belga Malinois, possivelmente os cães mais entusiasmados do mundo.
 
 🤝 Estou sempre aberto a colaborar em projetos que envolvem Direito Digital e Tecnologia. Sinta-se à vontade para entrar em contato se você tiver um projeto que poderia usar minha experiência.
 
